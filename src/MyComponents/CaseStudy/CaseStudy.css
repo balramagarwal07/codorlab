@@ -1,0 +1,18 @@
+.casestudylist a{
+    color: #f2f2f2;
+}
+.casestudylist a:hover{
+    color: #7490bc;
+}
+.casestudydetailspage .banner img{
+    width: 100%;
+}
+.casestudydetailspage html .ReactGridGallery img{
+    width:100% !important;
+    margin: 0 !important;
+}
+.casestudy-bg{
+    background: url(../../Images/shape-bg.jpg) no-repeat;
+    background-size: contain;
+    background-color: #f2f2f2;
+}
